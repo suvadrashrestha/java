@@ -1,0 +1,6 @@
+Understanding layout managers
+
+--> a layout manage automatically arranges your controls within a window by using some type of algorithm
+--> each container object has a layout manager associated with it. A layout manager is an instance of any class that implemenets the layoutManager interface
+--> The layout manager is set by the setLayout() method
+--> if no call to setLayout() is made then the default layout manager is  used 

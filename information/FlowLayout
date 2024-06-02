@@ -1,0 +1,8 @@
+Flow layout
+--> flowlayout implements a simlpe layout style,which is familiar to how 
+words flow in a text editor
+-->the direction of the layout is governed by the container's component 
+orientation property,which by default ,is left to right, top to buttom
+-->therfore by default components are laid out line-by-line beginning at the upper-left corner
+--> in all cases when a line is filled ,layout advances to next line
+-->a small space is left between each compenent ,above and below as well as left and right
