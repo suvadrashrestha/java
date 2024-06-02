@@ -1,4 +1,3 @@
-package bcaoop.menus;
 
 // Demonstrate a simple main menu.
 import java.awt.*;
